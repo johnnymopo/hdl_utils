@@ -1,7 +1,7 @@
 
 `timescale 1 ns / 1 ps
 
-module axiregs #
+module axi4reg #
   (
    // Users to add parameters here
 
